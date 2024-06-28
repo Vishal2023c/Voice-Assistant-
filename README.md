@@ -1,4 +1,4 @@
-# Voice-Assistant-https://github.com/Vishal2023c/Voice-Assistant-.git
+# Voice-Assistant
 This Python voice assistant script continuously listens to the user's speech, converts it to text, and prints the recognized words. It uses the `speech_recognition` library and the Google Web Speech API for accurate speech recognition. The assistant adjusts for ambient noise and handles various errors, ensuring smooth operation. Users can stop the assistant by saying "exit." This simple yet effective script demonstrates the basics of creating a voice-activated assistant in Python.
 
 ## Table of Contents
