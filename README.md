@@ -6,8 +6,6 @@ This Python voice assistant script continuously listens to the user's speech, co
 - [Installation](#installation)
 - [Usage](#usage)
 - [Voice Commands](#voice-commands)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
 
 ## Features
 
